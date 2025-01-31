@@ -56,6 +56,13 @@ cd amigo-secreto
 
 4. Abra o arquivo index.html no navegador.
 
+
+
+
+5. Ou acesse a pagina no GitHub Pages:
+   
+   `https://amandastefaniz.github.io/amigo-secreto/ `
+
 ------------------------------------------------------------------
 
 

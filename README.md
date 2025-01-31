@@ -61,7 +61,7 @@ cd amigo-secreto
 
 5. Ou acesse a pagina no GitHub Pages:
    
-   `https://amandastefaniz.github.io/amigo-secreto/ `
+  ```https://amandastefaniz.github.io/amigo-secreto/ ```
 
 ------------------------------------------------------------------
 

@@ -2,6 +2,7 @@
 
 Este é um projeto simples de uma página web onde você pode adicionar nomes dos seus amigos e realizar um sorteio aleatório para definir quem será seu amigo secreto.
 
+![Image](https://github.com/user-attachments/assets/4d85d8ad-c9df-4cf8-a376-6152a3ef217b)
 
 
 ## 🚀 Funcionalidades

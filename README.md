@@ -6,26 +6,26 @@ Este é um projeto simples de uma página web onde você pode adicionar nomes do
 
 
 ## 🚀 Funcionalidades
-✅ Adicionar nomes à lista de amigos.
-✅ Remover nomes da lista.
-✅ Sortear um amigo secreto aleatoriamente.
-✅ Exibir o nome sorteado na tela.
+✅ Adicionar nomes à lista de amigos. <br/>
+✅ Remover nomes da lista. <br/>
+✅ Sortear um amigo secreto aleatoriamente. <br/>
+✅ Exibir o nome sorteado na tela. <br/>
 
 
 
 ## 🛠️ Tecnologias Utilizadas
-HTML → Estrutura da página
-CSS → Estilos básicos para melhor aparência
-JavaScript → Manipulação da DOM e lógica do sorteio
+HTML → Estrutura da página <br/>
+CSS → Estilos básicos para melhor aparência <br/>
+JavaScript → Manipulação da DOM e lógica do sorteio <br/>
 
 
 
 ## 🎲 Como Usar?
-1️⃣ Abra a página no navegador.
-2️⃣ Digite o nome de um amigo e clique no botão "Adicionar".
-3️⃣ Adicione quantos amigos quiser à lista.
-4️⃣ Clique no botão "Sortear Amigo Secreto" para escolher um aleatoriamente.
-5️⃣ O nome sorteado será exibido na tela! 🎉
+1️⃣ Abra a página no navegador. <br/>
+2️⃣ Digite o nome de um amigo e clique no botão "Adicionar". <br/>
+3️⃣ Adicione quantos amigos quiser à lista. <br/>
+4️⃣ Clique no botão "Sortear Amigo Secreto" para escolher um aleatoriamente. <br/>
+5️⃣ O nome sorteado será exibido na tela! 🎉 <br/>
 
 
 
